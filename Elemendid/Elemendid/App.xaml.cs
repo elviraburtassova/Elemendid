@@ -10,7 +10,7 @@ namespace Elemendid
 		{
 			InitializeComponent();
 
-			MainPage = new dataPicker();
+			MainPage = new iseseisev();
 		}
 
 		protected override void OnStart()
